@@ -1,7 +1,11 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 //Comment
-
+//comment
+//commet
+/Comment
+//comment
+//commet
 public class Student {
     
     private String name;
