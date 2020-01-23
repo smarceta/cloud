@@ -12,7 +12,7 @@ import java.util.Scanner;
  * and then asks the user to pick a card and searches the array of cards
  * for the match to the user's card. To be used as starting code in ICE 1
  * SANJIN MARCETA
- * 991574394
+ * 991574394////
  */
 public class CardTrick {
     
