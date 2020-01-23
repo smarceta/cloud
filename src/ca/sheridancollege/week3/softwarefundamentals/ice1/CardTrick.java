@@ -20,6 +20,8 @@ public class CardTrick {
     {
         Scanner input = new Scanner(System.in);
         Card[] magicHand = new Card[7];
+        Card luckyCard = new Card();
+        //set luckyCard to value of choice
         
         
         for (int i=0; i<magicHand.length; i++)
