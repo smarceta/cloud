@@ -21,6 +21,8 @@ public class CardTrick {
         Scanner input = new Scanner(System.in);
         Card[] magicHand = new Card[7];
         Card luckyCard = new Card();
+        luckyCard.setValue(4);
+        luckyCard.setSuit(Ace);
         //set luckyCard to value of choice
         
         
